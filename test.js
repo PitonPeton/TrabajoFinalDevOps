@@ -1,4 +1,4 @@
-const imprimirMensaje = require('./script');
+const imprimirMensaje = require('./html/script');
 
 test('El script imprime "Hola Mundo"', () => {
     console.log = jest.fn();
