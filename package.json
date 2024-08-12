@@ -1,7 +1,7 @@
 {
   "name": "pipeline",
   "version": "1.0.0",
-  "main": "index.html",
+  "main": "script.js",
   "scripts": {
     "test": "jest"
   },
